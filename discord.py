@@ -40,10 +40,10 @@ async def change_staus():
 @bot.command()
 async def src(ctx):
     embed = discord.Embed(
-        title="Open Source by 7o_#9066",
+        title="Open Source by github.com/pythonjoshua",
         description="bot",
         colour=ctx.author.colour  # remove my credits means stupid
-    )  # code by 7o_#9066
+    )  # code by github.com/pythonjoshua
     embed.set_footer(text="Open SRC")
     await ctx.send(embed=embed)
 

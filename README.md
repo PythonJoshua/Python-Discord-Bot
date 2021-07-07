@@ -27,4 +27,4 @@ Contributions are welcome!
 Made with Python.
 
 Create an issue to suggest any ideas, bugs in the code, or if you would like to contact me:
-7o_#9066, often changes so here is also my user ID: 454727487440814082
+j_#1770, often changes so here is also my user ID: 454727487440814082

@@ -33,7 +33,7 @@ async def on_ready():
 async def change_staus():
     status = [
         'github', 'src!', 'https://github.com/PythonJoshua',
-        'Open Source by 7o_#9066', 'HmMmMm'
+        'Open Source by j_#1770', 'HmMmMm'
     ]
     await bot.change_presence(activity=discord.Game(random.choice(status)))
 

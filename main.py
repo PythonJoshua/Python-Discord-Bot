@@ -6,9 +6,7 @@ from discord.ext.commands import Bot
 
 __version__ = '0.0.1'
 
-pr = ['src!']
-bot = commands.Bot(command_prefix=pr)
-bot.remove_command('help')
+bot = commands.Bot(command_prefix=commands.when_mentioned_or('src!'), help_command=None)
 
 @bot.event
 async def on_ready():
@@ -29,7 +27,7 @@ async def on_ready():
     print(f'Owner: {bot.AppInfo.owner}')
     print('------')
 
-@tasks.loop(seconds=5)
+@tasks.loop(seconds=180)
 async def change_staus():
     status = [
         'github', 'src!', 'https://github.com/PythonJoshua',

@@ -32,9 +32,11 @@ Create an issue to suggest any ideas, bugs in the code, or if you would like to 
 __tesco__
 
 github : [https://github.com/tescomealdealll](https://github.com/tescomealdealll)
+
 discord : tesco meal deal#6969 (437325015994859532)
 
 __josh__
 
 github : [https://github.com/PythonJoshua](https://github.com/PythonJoshua)
+
 discord : j_#1770 (454727487440814082)

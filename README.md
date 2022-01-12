@@ -27,5 +27,14 @@ You should also have a understanding of basic python before attempting to make a
 Contributions are welcome!
 Made in [Python using](https://www.python.org/) [discord.py](https://github.com/Rapptz/discord.py).
 
-Create an issue to suggest any ideas, bugs in the code, or if you would like to contact me:
-j_#1770, often changes so here is also my user ID: 454727487440814082
+Create an issue to suggest any ideas, bugs in the code, or if you would like to contact me or tesco:
+
+__tesco__
+
+github : [https://github.com/tescomealdealll](https://github.com/tescomealdealll)
+discord : tesco meal deal#6969 (437325015994859532)
+
+__josh__
+
+github : [https://github.com/PythonJoshua](https://github.com/PythonJoshua)
+discord : j_#1770 (454727487440814082)

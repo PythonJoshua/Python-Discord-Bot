@@ -7,15 +7,16 @@ We all start of somewhere so why not support Open Source communitys? Here is my 
 
 # PROJECT INFO 1
 
-Open Source discord.py demo/open source bot for everyones use, please READ my lisence I have put on my work.
+Open Source discord.py demo/open source bot for everyones use, please READ my licence I have put on my work.
 This project is maintained and is under the MIT Lisence.
 
 Some things you probably want to at least memorise before making bots:
 
 ```import discord
 from discord.ext import commands, tasks
-from discord.ext.commands import Bot
 ```
+You should also have a understanding of basic python before attempting to make a bot! It will make stuff a lot easier.
+
 # ToDO List
 
 - [x] Open Source Bot
@@ -24,7 +25,7 @@ from discord.ext.commands import Bot
 # Project INFO 2
 
 Contributions are welcome!
-Made with Python.
+Made in [Python using](https://www.python.org/) [discord.py](https://github.com/Rapptz/discord.py).
 
 Create an issue to suggest any ideas, bugs in the code, or if you would like to contact me:
 j_#1770, often changes so here is also my user ID: 454727487440814082

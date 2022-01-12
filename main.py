@@ -1,8 +1,9 @@
 import discord
 import random
-import asyncio
 from discord.ext import commands, tasks
 from discord.ext.commands import Bot
+
+TOKEN = '' # paste your bots token inside the ''
 
 __version__ = '0.0.1'
 
@@ -45,4 +46,4 @@ async def src(ctx):
     embed.set_footer(text="Open SRC")
     await ctx.send(embed=embed)
 
-bot.run("token here")
+bot.run(TOKEN)
